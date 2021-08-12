@@ -1,0 +1,7 @@
+{
+    "require": {
+        "illuminate/database": "^8.54",
+        "vlucas/phpdotenv": "^5.3",
+        "zircote/swagger-php": "^3.2"
+    }
+}
